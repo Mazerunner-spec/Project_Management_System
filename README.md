@@ -18,6 +18,6 @@
 
 # IDE - Eclipse Version: 2020-9 (4.17.0)
 
-# ROJECT STATUS
+# PROJECT STATUS
 
 # See the Github repository "Readme" file - Project_Management_System2 
