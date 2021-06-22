@@ -33,7 +33,7 @@ public class Project {
         this.amountPaid = amountPaid;
         this.deadline = deadline;
         this.projectCompleted = projectCompleted;
-        this.dateCompleted = dateCompleted; // Do I need to create a seperate class?
+        this.dateCompleted = dateCompleted; 
         this.Architect = Architect;
         this.Customer = Customer;
         this.Contractor = Contractor;
