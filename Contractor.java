@@ -1,44 +1,4 @@
-//public class Contractor {
 
-//    String contName;
-//   String contNum;
- //   String contEmail;
- //   String contAddress;
-
-//    public Contractor(String contName,String contNum, String contEmail,String contAddress){
-        
- //       this.contName = contName;
- //       this.contNum = contNum;
-  //      this.contEmail = contEmail;
-  //      this.contAddress = contAddress;
-   // }
-
- //   public String getContName(){
- //       return contName;
- //   }
-
-//    public String getContNum(){
-  //      return contNum;
- //   }
-
-//    public String getContEmail(){
-  //      return contEmail;
- //   }
-
-//    public String getContAddress(){
- //       return contAddress;
-  //  }
-
- //   public String toString(){
- //       String output = "Contractors: " + contName;
- //       output += "\nPhone Number: " + contNum;
- //       output += "\nEmail Address: " + contEmail;
- //       output += "\nPhysical Address: " + contAddress;
-//
-//        return output;
-//    }
-
-//}
 public class Contractor extends Person {
 
     
@@ -50,11 +10,11 @@ public class Contractor extends Person {
 
         } 
 
-        //public void setcustomerInv(){
+        public void setcustomerInv(){
 
-          //  this.customerInv = customerInv;
+            this.customerInv = customerInv;
 
- //   }
+    }
     
     public String toString(){
         String output = "Customer Name: " + name;
@@ -66,32 +26,3 @@ public class Contractor extends Person {
     }
 
 }
-///package PoisedTaskManager;
-
-//public class Contractor {
-	
-    //Attributes.
-   /// static String name;
-    //static String phoneNumber;
-    //static String email;
-    //static String physicalAddress;
-
-    // Contractor Method.
-   // public Contractor (String name, String phoneNumber, String email, String physicalAddress) {
-      //  Contractor.name = name;
-      //  Contractor.phoneNumber = phoneNumber;
-       // Contractor.email = email;
-       // Contractor.physicalAddress = physicalAddress;
-  //  }
-    // Output
-   // @Override
-//	public String toString() {
-      //  String output = "Contractor Name: " + name;
-      //  output += "\nContractor Phone Number: " + phoneNumber;
-      //  output += "\nContractor Email Address: " + email;
-      //  output += "\nContractor Physical Address: " + physicalAddress;
-
-     //   return output;
-  //  }
-
-//
