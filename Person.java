@@ -25,6 +25,7 @@ public class Person {
         this.emailAddress = emailAddress;
        
     }
+        @Override
         public String toString() {
         String output = "";
         output += "\nName: " + name + " "+ surname;
