@@ -159,7 +159,7 @@ public class ProjectOverview {
                 System.out.println("Enter due date for example 12 July 2019: ");
                 String typedProjectDeadline = input.nextLine();
 
-                //Set project completed to no
+                //Set project completed to "No'
                
                 String projectCompleted = ("No");
                 Date defaultDate = null;
